@@ -64,7 +64,7 @@ Bu repo, sıralama algoritmalarının ana thread ile çalıştırıldığındaki
 
 Bu repo, farklı veri sıralamalarında **sıralama algoritmalarının performanslarını analiz etmek** ve **thread kullanımının etkilerini görmek** için oluşturulmuştur. Eğer daha fazla test veya optimizasyon eklemek isterseniz, kodu geliştirerek farklı senaryoları test edebilirsiniz. 😊
 
-*****************************************************
+---
 
 
 # Performance of Sorting Algorithms with Threads
